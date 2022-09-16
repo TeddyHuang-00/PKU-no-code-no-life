@@ -11,11 +11,13 @@
 - [生物信息学实验（历次作业）](https://github.com/TeddyHuang-00/Bioinformatics-Lab)
 - [基因组学数据分析（历次作业）](https://github.com/TeddyHuang-00/Statistical-analysis-of-genomics-data)
 - [生物化学实验助教（GST 酶活统计分析）](https://github.com/TeddyHuang-00/Biochemistry-Lab-TA)
+- [生物化学实验助教（互动课件）](https://github.com/TeddyHuang-00/DiveIntoBiostat)
 
 ## 其他有趣的项目
 
 多半是学期内摸鱼的产物【
 
+- [复现 PI-GNN 部分工作](https://github.com/TeddyHuang-00/PI-GNN)
 - [玄学投点计算器（不做任何担保！但是用过都说好！）](https://github.com/TeddyHuang-00/PKUCourseElective)
 - [“几乎”从头写起的在线交互五子棋](https://github.com/TeddyHuang-00/streamlit-gomoku)
 - [随手翻译的命令行教程](https://github.com/TeddyHuang-00/You-Dont-Need-GUI-CN)
