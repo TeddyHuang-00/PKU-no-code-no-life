@@ -17,6 +17,8 @@
 
 多半是学期内摸鱼的产物【
 
+- [个人博客](https://github.com/TeddyHuang-00/teddyhuang-00.github.io)
+- [一个用于和树洞交互的简单Python包](https://github.com/TeddyHuang-00/pyTreeHole)
 - [复现 PI-GNN 部分工作](https://github.com/TeddyHuang-00/PI-GNN)
 - [玄学投点计算器（不做任何担保！但是用过都说好！）](https://github.com/TeddyHuang-00/PKUCourseElective)
 - [“几乎”从头写起的在线交互五子棋](https://github.com/TeddyHuang-00/streamlit-gomoku)
