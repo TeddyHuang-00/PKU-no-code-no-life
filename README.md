@@ -5,6 +5,8 @@
 ## 目录
 
 - [Python 程序设计与数据科学基础（期中大作业）](https://github.com/TeddyHuang-00/Learning-Data-Science-with-Python)
+- [根据 FDR 计算与寻找显著峰（翻译自 Perl: find_peaks）](https://github.com/TeddyHuang-00/find_peaks)
+- [复现 PI-GNN 部分工作](https://github.com/TeddyHuang-00/PI-GNN)
 - [生理学实验（历次实验）](https://github.com/TeddyHuang-00/Physiology-Lab)
 - [创意性实践（期末项目完整设计）](https://github.com/TeddyHuang-00/BioMakers)
 - [音乐与数学（期中大作业）](https://github.com/TeddyHuang-00/Music-and-Mathematics)
@@ -18,9 +20,7 @@
 多半是学期内摸鱼的产物【
 
 - [个人博客](https://github.com/TeddyHuang-00/teddyhuang-00.github.io)
-- [根据 FDR 计算与寻找显著峰（翻译自 Perl: find_peaks）](https://github.com/TeddyHuang-00/find_peaks)
 - [一个用于和树洞交互的简单Python包](https://github.com/TeddyHuang-00/pyTreeHole)
-- [复现 PI-GNN 部分工作](https://github.com/TeddyHuang-00/PI-GNN)
 - [玄学投点计算器（不做任何担保！但是用过都说好！）](https://github.com/TeddyHuang-00/PKUCourseElective)
 - [“几乎”从头写起的在线交互五子棋](https://github.com/TeddyHuang-00/streamlit-gomoku)
 - [随手翻译的命令行教程](https://github.com/TeddyHuang-00/You-Dont-Need-GUI-CN)
