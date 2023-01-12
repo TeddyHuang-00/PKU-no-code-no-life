@@ -14,6 +14,8 @@
 - [基因组学数据分析（历次作业）](https://github.com/TeddyHuang-00/Statistical-analysis-of-genomics-data)
 - [生物化学实验助教（GST 酶活统计分析）](https://github.com/TeddyHuang-00/Biochemistry-Lab-TA)
 - [生物化学实验助教（互动课件）](https://github.com/TeddyHuang-00/DiveIntoBiostat)
+- [生态学导论（期末论文项目）](https://github.com/TeddyHuang-00/Introduction-to-Ecology)
+- [生活中的心理学（小组游戏与量表）](https://github.com/TeddyHuang-00/MLM-TRPG)
 
 ## 其他有趣的项目
 
@@ -23,5 +25,7 @@
 - [一个用于和树洞交互的简单Python包](https://github.com/TeddyHuang-00/pyTreeHole)
 - [玄学投点计算器（不做任何担保！但是用过都说好！）](https://github.com/TeddyHuang-00/PKUCourseElective)
 - [“几乎”从头写起的在线交互五子棋](https://github.com/TeddyHuang-00/streamlit-gomoku)
+- [漂流瓶小程序](https://github.com/TeddyHuang-00/BottlePost)
+- [30天学Streamlit（翻译）](https://github.com/TeddyHuang-00/30days-Chinese)
 - [随手翻译的命令行教程](https://github.com/TeddyHuang-00/You-Dont-Need-GUI-CN)
 - [随手翻译的“假设检验与 P 值”系列视频（跳转 B 站）](https://www.bilibili.com/video/BV1c54y1E7uh/)
